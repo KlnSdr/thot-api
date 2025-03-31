@@ -1,0 +1,14 @@
+{
+  "remoteRepoUrl": "https://repo.klnsdr.com",
+  "project": {
+    "entry": "",
+    "name": "thot-api",
+    "version": "1.0",
+    "group": "dobby",
+    "dependencies": []
+  },
+  "compiler": {
+    "version": "21"
+  },
+  "exclude": []
+}
